@@ -1,5 +1,6 @@
 cask_args appdir: '/Applications'
 
+tap 'caskroom/versions'
 tap 'homebrew/bundle'
 tap 'puma/puma'
 
@@ -32,7 +33,8 @@ brew 'zsh-completions'
 cask 'atom'
 cask 'bittorrent'
 cask 'dash'
-cask 'docker'
+cask 'docker-edge'
+cask 'dropbox'
 cask 'firefox'
 cask 'github-desktop'
 cask 'google-chrome'
