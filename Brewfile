@@ -30,7 +30,7 @@ brew 'youtube-dl'
 brew 'zsh'
 brew 'zsh-completions'
 
-cask 'atom'
+cask 'atom-beta'
 cask 'bittorrent'
 cask 'dash'
 cask 'docker-edge'
