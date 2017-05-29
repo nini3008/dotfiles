@@ -1,0 +1,5 @@
+#!/bin/sh
+
+ln -s ~/Dropbox/ssh/id_rsa ~/.dotfiles/ssh.symlink/id_rsa
+ln -s ~/Dropbox/ssh/id_rsa.pub ~/.dotfiles/ssh.symlink/id_rsa.pub
+ln -s ~/Dropbox/ssh/config ~/.dotfiles/ssh.symlink/config
