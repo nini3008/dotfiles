@@ -9,6 +9,11 @@ atom.symlink/themes
 atom.symlink/blob-store
 atom.symlink/recovery
 
+composer.symlink/cache
+composer.symlink/vendor
+composer.symlink/.htaccess
+composer.symlink/auth.json
+
 git/gitconfig.local.symlink
 
 ssh.symlink/known_hosts

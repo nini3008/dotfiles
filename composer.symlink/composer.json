@@ -1,0 +1,6 @@
+{
+    "require": {
+        "laravel/installer": "^1.3",
+        "laravel/spark-installer": "^1.2"
+    }
+}
