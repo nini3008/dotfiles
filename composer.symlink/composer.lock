@@ -4,8 +4,39 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "content-hash": "20355655d71d4f623d663359113eb9d8",
+    "content-hash": "6570ea80540f7a4a012a41c4b9e7e9ae",
     "packages": [
+        {
+            "name": "colinmollenhour/modman",
+            "version": "1.12",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/colinmollenhour/modman.git",
+                "reference": "c45a6b2f5903dff8c8f029e50d5a93e73fb72793"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/colinmollenhour/modman/zipball/c45a6b2f5903dff8c8f029e50d5a93e73fb72793",
+                "reference": "c45a6b2f5903dff8c8f029e50d5a93e73fb72793",
+                "shasum": ""
+            },
+            "bin": [
+                "modman"
+            ],
+            "type": "library",
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "Apache-2.0"
+            ],
+            "authors": [
+                {
+                    "name": "Colin Mollenhour"
+                }
+            ],
+            "description": "Module Manager",
+            "homepage": "https://github.com/colinmollenhour/modman",
+            "time": "2015-05-09T00:02:36+00:00"
+        },
         {
             "name": "doctrine/inflector",
             "version": "v1.1.0",
